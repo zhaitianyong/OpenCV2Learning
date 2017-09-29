@@ -1,0 +1,5 @@
+﻿  OpenCV2Learning.cpp
+OpenCV2Learning.cpp(38): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码
+  已完成代码的生成
+  OpenCV2Learning.vcxproj -> D:\MyWork\GitHub\OpenCV2Learning\Release\OpenCV2Learning.exe

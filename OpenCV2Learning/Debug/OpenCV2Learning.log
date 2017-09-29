@@ -1,0 +1,14 @@
+﻿  improcess.cpp
+d:\mywork\github\opencv2learning\opencv2learning\improcess.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+d:\mywork\github\opencv2learning\opencv2learning\improcess.cpp(199): warning C4018: “<”: 有符号/无符号不匹配
+d:\mywork\github\opencv2learning\opencv2learning\improcess.cpp(265): warning C4018: “<”: 有符号/无符号不匹配
+d:\mywork\github\opencv2learning\opencv2learning\improcess.cpp(269): warning C4018: “<”: 有符号/无符号不匹配
+  MatchTemplate.cpp
+  ImageStitching.cpp
+d:\mywork\github\opencv2learning\opencv2learning\imagestitching.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+d:\mywork\github\opencv2learning\opencv2learning\imagestitching.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+d:\mywork\github\opencv2learning\opencv2learning\imagestitching.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+d:\mywork\github\opencv2learning\opencv2learning\imagestitching.cpp(228): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+MSVCRTD.lib(crtexe.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 ___tmainCRTStartup 中被引用
+D:\MyWork\GitHub\OpenCV2Learning\Debug\OpenCV2Learning.exe : fatal error LNK1120: 1 个无法解析的外部命令
